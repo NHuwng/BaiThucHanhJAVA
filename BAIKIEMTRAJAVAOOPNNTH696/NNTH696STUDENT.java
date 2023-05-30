@@ -1,0 +1,5 @@
+package BAIKIEMTRAJAVAOOPNNTH696;
+
+public class NNTH696STUDENT {
+    
+}
